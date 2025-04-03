@@ -1,0 +1,44 @@
+---
+title: The Impact of Placement Errors on the Tumor Coverage in MRI-Guided Focal Cryoablation
+  of Prostate Cancer
+authors:
+- Pedro Moreira
+- Kemal Tuncali
+- Clare M. Tempany
+- Junichi Tokuda
+date: '2021-01-01'
+publishDate: '2025-04-03T01:15:59.226854Z'
+publication_types:
+- article-journal
+publication: '*Academic Radiology*'
+doi: https://doi.org/10.1016/j.acra.2020.07.013
+abstract: Rationale and Objectives There have been multiple investigations defining
+  and reporting the effectiveness of focal cryoablation as a treatment option for
+  organ-confined prostate cancer. However, the impact of cryo-needle/probe placement
+  accuracy within the tumor and gland has not been extensively studied. We analyzed
+  how variations in the placement of the cryo-needles, specifically errors leading
+  to incomplete ablation, may affect prostate cancer's resulting cryoablation. Materials
+  and Methods We performed a study based on isothermal models using Monte Carlo simulations
+  to analyze the impact of needle placement errors on tumor coverage and the probability
+  of positive ablation margin. We modeled the placement error as a Gaussian noise
+  on the cryo-needle position. The analysis used retrospective MRI data of 15 patients
+  with biopsy-proven, unifocal, and MRI visible prostate cancer to calculate the impact
+  of placement error on the volume of the tumor encompassed by the −40°C and −20°C
+  isotherms using one to four cryo-needles. Results When the standard deviation of
+  the placement error reached 3 mm, the tumor coverage was still above 97% with the
+  −20°C isotherm, and above 81% with the −40°C isotherm using two cryo-needles or
+  more. The probability of positive margin was significantly lower considering the
+  −20°C isotherm (0.04 for three needles) than using the −40°C isotherm (0.66 for
+  three needles). Conclusion The results indicated that accurate cryo-needle placement
+  is essential for the success of focal cryoablation of prostate cancer. The analysis
+  shows that an admissible targeting error depends on the lethal temperature considered
+  and the number of cryo-needles used.
+tags:
+- Focal Cryoablation
+- MRI-guided Cryoablation
+- Prostate Cancer
+- Needle placement accuracy
+links:
+- name: URL
+  url: https://www.sciencedirect.com/science/article/pii/S1076633220304293
+---
