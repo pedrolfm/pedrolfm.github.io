@@ -1,5 +1,5 @@
 ---
-title: Medical Imaging Modalities
+title: Summer internship oportunities
 date: 2023-10-24
 type: docs
 math: false
