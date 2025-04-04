@@ -1,0 +1,7 @@
+# files and folder that should not go to repository
+.hugo_build.lock
+go.sum
+hugo_stats.json
+public/
+publication.bib
+resources/

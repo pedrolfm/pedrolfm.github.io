@@ -10,10 +10,12 @@ design:
 
 # Page sections
 sections:
-  - block: resume-experience
+  - block: resume-experience-custom
     content:
       username: admin
     design:
+      # if set to false, do not show dates
+      show_dates: false
       # Hugo date format
       date_format: 'January 2006'
       # Education or Experience section first?
