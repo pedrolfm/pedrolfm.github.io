@@ -56,7 +56,7 @@ interests:
 
 education:
   - area: PhD Medical Robotics
-    institution: Université Montpellier 2, France  
+    institution: Université Montpellier 2, France
   - area: MSc Electrical Engineering
     institution: Federal University of Rio de Janeiro, Brazil
   - area: BSc Electrical Engineering
