@@ -24,6 +24,8 @@ role: Instructor in Radiology
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
+  - name: Harvard Medical School
+    url: https://hms.harvard.edu/
   - name: Brigham and Women's Hospital
     url: https://www.brighamandwomens.org/research
 
@@ -38,7 +40,7 @@ profiles:
 #  - icon: brands/instagram
 #    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/
+    url: https://github.com/pedrolfm
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/pedro-moreira-28299164
   - icon: academicons/google-scholar
@@ -49,50 +51,17 @@ profiles:
 interests:
   - Medical Robotics
   - Image-Guided Surgery
-  - MRI Robotics
+  - Medical Imaging
   - Robot-Assisted Needle Steering
 
 education:
   - area: PhD Medical Robotics
-    institution: Université Montpellier 2, France
-    date_start: 2009-01-01
-    date_end: 2013-12-01
-    summary: |-
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+    institution: Université Montpellier 2, France  
   - area: MSc Electrical Engineering
     institution: Federal University of Rio de Janeiro, Brazil
-    date_start: 2006-01-01
-    date_end: 2008-12-01
   - area: BSc Electrical Engineering
     institution: State University of Rio de Janeiro, Brazil
-    date_start: 1999-01-01
-    date_end: 2004-12-01
-work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`

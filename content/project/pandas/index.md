@@ -1,13 +1,16 @@
 ---
-title: Pandas
+title: MRI-guided prostate biopsy
 date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Robot
+  - Prostate
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+MRI-guided targeted biopsy has transformed prostate cancer diagnosis by improving lesion detection and reducing unnecessary biopsies, particularly in men with elevated PSA levels. The integration of multiparametric MRI (mpMRI) and MRI-targeted biopsy, supported by the Prostate Imaging Reporting and Data System (PI-RADS), allows for more precise sampling of suspicious lesions compared to traditional systematic biopsy. Despite these advancements, challenges remain in optimizing biopsy accuracy and workflow efficiency. Our lab is actively involved in several projects focused on advancing MRI-guided biopsy, including needle steering techniques, MRI-compatible robotic systems, and their translation into clinical trials, aiming to improve precision, reduce patient discomfort, and refine risk stratification for better clinical decision-making.
+
+* Funding: 
+
+* Industrial partners:
 
 <!--more-->
