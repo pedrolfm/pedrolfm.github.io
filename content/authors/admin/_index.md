@@ -66,23 +66,38 @@ education:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name:
     items:
-      - name: Python
-        description: ''
-##        percent: 80
-        icon: python
-      - name: Data Science
-        description: ''
-##        percent: 100
-        icon: chart-bar
       - name: Robotics
         description: ''
 ##        percent: 40
         icon: wrench-screwdriver
+      - name: Data Science
+        description: ''
+##        percent: 100
+        icon: chart-bar
+      - name: Machine Learning
+        description: ''
+##        percent: 100
+        icon: square-3-stack-3d
+      - name: Python
+        description: ''
+##        percent: 80
+        icon: python
+      - name: R
+        description: ''
+##        percent: 80
+        icon: custom/r-original
+      - name: Matlab
+        description: ''
+##        percent: 80
+        icon: custom/matlab-plain
       - name: Latex
         description: ''
         icon: custom/latex-original
+      - name: git/GitHub
+        description: ''
+        icon: custom/github-original
        
 languages:
   - name: Portuguese
