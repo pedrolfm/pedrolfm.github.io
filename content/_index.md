@@ -69,7 +69,7 @@ sections:
       view: date-title-summary
       background:
         # Choose a color such as from https://html-color-codes.info
-        color: '#FAFAFA'
+#        color: '#FAFAFA'
         # Text color (true=light, false=dark, or remove for the dynamic theme color).
         #text_color_light: false
       # Reduce spacing
