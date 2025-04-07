@@ -11,7 +11,6 @@ Parkinson’s Disease (PD) affects approximately 6.1 million individuals worldwi
 
 Our lab is collaborating with AiM Medical Robotics to advance the translation of their MRI-compatible robot into real-world clinical applications.
 
-* Industrial collaborators:
-# AiM Medical Robotics 
+* Industrial collaborators: AiM Medical Robotics 
 
 <!--more-->
