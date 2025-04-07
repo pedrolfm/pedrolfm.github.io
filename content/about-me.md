@@ -38,11 +38,12 @@ sections:
       title: About Me
       subtitle: 
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus et ipsum tristique orci egestas sodales a non arcu. Ut nunc ligula, aliquam non tellus et, faucibus faucibus neque. Suspendisse urna odio, auctor quis lacus quis, fermentum sollicitudin urna. Proin non justo pulvinar felis molestie convallis quis ac metus. Aliquam ultrices id sapien vitae pellentesque. Pellentesque maximus posuere ante eu aliquet. Proin lacinia ut mauris ac commodo. Aenean ut varius leo. Suspendisse placerat nulla eu metus semper suscipit et at nulla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Donec ultrices sapien non pretium pellentesque. 
-
-        Nulla leo magna, tempus a fringilla ac, lobortis ac metus. Sed volutpat finibus tempus. Integer tincidunt non neque eget vulputate. Quisque laoreet sapien vitae nulla dignissim, a maximus erat aliquam. Nullam imperdiet lorem id vulputate pulvinar. Aliquam nec neque in sem ultricies bibendum sit amet eget est. Vivamus facilisis augue at felis suscipit, sed lacinia nulla efficitur. Maecenas et lectus ac nibh porttitor convallis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
-
-        You can see more details about my academic and professional experience [here]({{< relref "experience" >}})
+        I’m a research scientist in the Department of Radiology at Brigham and Women’s Hospital and an Instructor in Radiology at Harvard Medical School. My work lies at the intersection of engineering, imaging, and medicine, with a focus on developing MR-compatible robotic systems to enhance the precision and effectiveness of minimally invasive procedures.
+        My background is in electrical and biomedical engineering, and I’ve spent the last several years designing, building, and validating image-guided robotic devices for clinical use. I am especially interested in how advanced imaging technologies, such as MRI, can be paired with robotic assistance to guide needle-based interventions in a way that is safer, more accurate, and less invasive.
+        Beyond the lab, I’m passionate about interdisciplinary collaboration—bringing together clinicians, engineers, and scientists to solve real-world medical problems. Whether it’s helping guide a needle to a deep-seated tumor or building the tools to make that possible, I’m always looking for ways to translate engineering innovations into meaningful clinical impact.
+        
+        You can explore more about my projects, publications, and teaching using the menu above, or reach out if you’d like to connect or collaborate.
+      
     design:
       columns: '1'
     appearance:
