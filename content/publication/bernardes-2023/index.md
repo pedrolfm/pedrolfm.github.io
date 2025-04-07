@@ -1,7 +1,7 @@
 ---
 title: Data-driven adaptive needle insertion assist for transperineal prostate interventions
 authors:
-- Mariana C Bernardes
+- Mariana C. Bernardes
 - Pedro Moreira
 - Lisa Mareschal
 - Clare Tempany
@@ -9,14 +9,14 @@ authors:
 - Nobuhiko Hata
 - Junichi Tokuda
 date: '2023-05-01'
-publishDate: '2025-04-03T01:15:59.209088Z'
+publishDate: '2025-04-07T19:09:00.602346Z'
 publication_types:
 - article-journal
-publication: '*Physics in Medicine & Biology*'
+publication: '*Physics in Medicine and Biology*'
 doi: 10.1088/1361-6560/accefa
 abstract: Objective. Clinical outcomes of transperineal prostate interventions, such
   as biopsy, thermal ablations, and brachytherapy, depend on accurate needle placement
-  for effectiveness. However, the accurate placement of a long needle, typically 150–200
+  for effectiveness. However, the accurate placement of a long needle, typically 150-200
   mm in length, is challenging due to needle deviation induced by needle-tissue interaction.
   While several approaches for needle trajectory correction have been studied, many
   of them do not translate well to practical applications due to the use of specialized
@@ -35,7 +35,9 @@ abstract: Objective. Clinical outcomes of transperineal prostate interventions, 
   correction. Significance. Presented results show that the proposed closed-loop formulation
   can be successfully used to correct needle deflection during collaborative manual
   insertion with potential to be easily translated into clinical application.
-links:
-- name: URL
-  url: https://dx.doi.org/10.1088/1361-6560/accefa
+tags:
+- data-driven model
+- medical robotics
+- needle insertion assist
+- transperineal prostate intervention
 ---

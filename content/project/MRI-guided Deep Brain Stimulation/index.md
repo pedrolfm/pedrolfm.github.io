@@ -1,6 +1,6 @@
 ---
 title: MRI-guided Deep Brain Stimulation
-date: 2025-4-6
+date: 2025-04-06
 
 tags:
   - Robot
