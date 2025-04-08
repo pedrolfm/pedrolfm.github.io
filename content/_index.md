@@ -105,10 +105,19 @@ sections:
       text: ""
       # Choose how many pages you would like to display (0 = all pages)
       count: 3
+      sort_by: "selection_index"
+##      order: "asc"
       filters:
+        author: ""
+        category: ""
+        tag: ""
+        featured_only: false
+        exclude_featured: false
+        exclude_future: false
+        exclude_past: false
+        publication_type: ""
         folders:
           - publication
-        exclude_featured: false
     design:
       view: citation
   - block: collection

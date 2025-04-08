@@ -38,4 +38,5 @@ abstract: Early prostate cancer detection and treatment are of major importance 
 links:
 - name: URL
   url: https://doi.org/10.1142/S2424905X17500064
+selection_index: 1
 ---

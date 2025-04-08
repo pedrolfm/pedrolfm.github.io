@@ -48,4 +48,5 @@ tags:
 - needle deflection
 - needle path analysis
 - robot-assisted biopsy
+selection_index: 2
 ---
