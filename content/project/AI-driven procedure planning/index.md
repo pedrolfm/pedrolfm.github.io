@@ -1,6 +1,6 @@
 ---
 title: AI-based intraoperative planning for ablation
-date: 2023-10-26
+date: 2025-04-06
 tags:
   - Ablation
   - 3D Slicer

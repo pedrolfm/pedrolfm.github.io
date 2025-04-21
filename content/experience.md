@@ -14,8 +14,10 @@ sections:
     content:
       username: admin
     design:
-      # if set to false, do not show dates
-      show_dates: false
+      # if set to false, do not show dates for education
+      show_dates_education: false
+      # if set to false, do not show dates for work
+      show_dates_work: true
       # Hugo date format
       date_format: 'January 2006'
       # Education or Experience section first?
