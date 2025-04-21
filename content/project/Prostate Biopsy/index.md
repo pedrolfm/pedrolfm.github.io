@@ -1,6 +1,6 @@
 ---
 title: MRI-guided prostate biopsy
-date: 2023-10-26
+date: 2025-04-06
 
 tags:
   - Robot
@@ -11,9 +11,9 @@ MRI-guided targeted biopsy has transformed prostate cancer diagnosis by improvin
 
 
 * Funding: 
-** NIH SBIR R44CA224853
+   * NIH SBIR R44CA224853
 
-* Industrial collaborators:
-** Physical Science Inc.
+* Industry collaborators:
+   * [Physical Science Inc.](https://www.psicorp.com/)
 
 <!--more-->

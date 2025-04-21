@@ -1,6 +1,6 @@
 ---
 title: Focal Ablation
-date: 2023-10-26
+date: 2025-04-06
 tags:
   - Prostate
   - Ablation
@@ -11,10 +11,10 @@ Focal therapy (FT) is emerging as a promising approach in prostate cancer manage
 Our lab contributes to this evolving field by developing advanced methods for the planning and guidance of FT procedures, enhancing precision and improving patient outcomes.
 
 * Funding:
-** Brigham Research Institute - FSRE 
-** Department of Radiology - Pilot grant
-** NIH SBIR Phase I - R43EB032676
+   * Brigham Research Institute - FSRE 
+   * Department of Radiology - Pilot grant
+   * NIH SBIR Phase I - R43EB032676
 
-* Industrial collaborators:
-** Physical Science Inc.
+* Industry collaborators:
+   * [Physical Science Inc.](https://www.psicorp.com/)
 <!--more-->

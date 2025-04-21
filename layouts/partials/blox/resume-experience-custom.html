@@ -15,8 +15,8 @@
 {{end}}
 {{ $person := $person_page.Params }}
 {{ $is_education_first := $block.design.is_education_first | default false }}
-{{ $show_dates := $block.design.show_dates | default false }}
-
+{{ $show_dates_education := $block.design.show_dates_education | default false }}
+{{ $show_dates_work := $block.design.show_dates_work | default false }}
 
 <div class="flex flex-col items-center max-w-prose mx-auto">
 <!--  <article class="prose prose-slate lg:prose-xl dark:prose-invert">-->
@@ -42,7 +42,7 @@
       </h3>
       <span class="block mb-2 text-sm font-normal leading-none text-gray-500 dark:text-gray-300">{{.company_name}}</span>
       <time class="block mb-3 text-sm font-normal leading-none text-gray-500 dark:text-gray-300">
-        {{ if $show_dates }}
+        {{ if $show_dates_work }}
           {{ if .date_start }}
             {{ (time .date_start) | time.Format ($block.design.date_format | default "January 2006") }} –
           {{ end }}
@@ -83,7 +83,7 @@
         </h3>
         <span class="block mb-2 text-sm font-normal leading-none text-gray-500 dark:text-gray-300">{{.institution}}</span>
         <time class="block mb-3 text-sm font-normal leading-none text-gray-500 dark:text-gray-300">
-          {{ if $show_dates }}
+          {{ if $show_dates_education }}
             {{ if .date_start }}
               {{ (time .date_start) | time.Format ($block.design.date_format | default "January 2006") }} –
             {{ end }}

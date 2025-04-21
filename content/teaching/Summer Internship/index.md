@@ -1,6 +1,6 @@
 ---
-title: Summer internship oportunities
-date: 2023-10-24
+title: Summer internship opportunities
+date: 2025-04-21
 type: docs
 math: false
 tags:
@@ -10,3 +10,6 @@ image:
 ---
 
 
+{{% callout note %}}
+More information coming soon!
+{{% /callout %}}
