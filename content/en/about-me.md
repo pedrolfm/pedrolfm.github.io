@@ -5,7 +5,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "6rem"
+  spacing: "1rem"
 
 sections:
   - block: markdown
@@ -45,12 +45,29 @@ sections:
         Beyond the lab, I am passionate about interdisciplinary collaboration -- bringing together clinicians, engineers, and scientists to solve real-world medical problems. Whether it is helping guide a needle to a deep-seated tumor or building the tools to make that possible, I am always looking for ways to translate engineering innovations into meaningful clinical impact.
         
         You can explore more about my projects, publications, and teaching using the menu above, or reach out if you’d like to connect or collaborate.
-      
-        _(Header Image: [Pont du Gard Aqueduct](https://pontdugard.fr/en). Image by Renata Condé da Frota Moreira.)_
-
     design:
       columns: '1'
-    appearance:
-      font_size: 's'
+      spacing:
+        # Customize the section spacing. Order is top, right, bottom, left.
+        padding: ['3rem', '0px', '0px', '0px']
+  - block: contact-network
+    content:
+      # Choose a user profile to display (a folder name within `content/authors/`)
+      username: admin
+      text: ""
+      spacing:
+        # Customize the section spacing. Order is top, right, bottom, left.
+        padding: ['0px', '0px', '0px', '0px']
+  - block: markdown-wide
+    content:
+      title: 
+      subtitle: 
+      text: |
+        <em style="font-size: 14px;">(Header Image: [Pont du Gard Aqueduct](https://pontdugard.fr/en). Image by Renata Condé da Frota Moreira.)</em>
+    design:
+      columns: '1'
+      spacing:
+        # Customize the section spacing. Order is top, right, bottom, left.
+        padding: ['0px', '0px', '0px', '0px']
 
 ---
