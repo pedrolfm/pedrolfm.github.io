@@ -6,7 +6,7 @@
 en:
   languageCode: en-us
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
+  contentDir: content/en
 
 # Uncomment the lines below to configure your website in a second language.
 #zh:
@@ -20,3 +20,29 @@ en:
 #      - name: 传
 #        url: '#about'
 #        weight: 1
+pt:
+  languageCode: pt
+  contentDir: content/pt
+  title: Pedro Moreira
+  params:
+    description:
+  menu: 
+    main:
+      - name: Sobre mim
+        url: about-me/
+        weight: 10
+      - name: Experiência
+        url: experience/
+        weight: 11
+      - name: Notícias
+        url: /#news
+        weight: 12
+      - name: Artigos
+        url: /#papers
+        weight: 13
+      - name: Projetos
+        url: projects/
+        weight: 14
+      - name: Ensino
+        url: teaching/
+        weight: 16
