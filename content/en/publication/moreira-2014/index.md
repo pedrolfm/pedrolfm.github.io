@@ -6,8 +6,8 @@ authors:
 - Nabil Zemiti
 - Chao Liu
 - Philippe Poignet
-date: '2014-01-01'
-publishDate: '2025-04-07T19:09:00.728289Z'
+date: '2014-09-01'
+publishDate: '2026-01-07T19:29:40.471743Z'
 publication_types:
 - article-journal
 publication: '*Computer Methods and Programs in Biomedicine*'

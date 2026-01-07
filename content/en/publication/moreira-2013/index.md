@@ -8,7 +8,7 @@ authors:
 - Stephane Cotin
 - Sarthak Misra
 date: '2013-08-01'
-publishDate: '2025-04-07T19:09:00.734288Z'
+publishDate: '2026-01-07T19:29:40.476915Z'
 publication_types:
 - article-journal
 publication: '*Mechanical Engineering Research*'
@@ -30,4 +30,7 @@ abstract: 'Needle insertion procedures are commonly used to treat and to diagnos
   The SOFA simulation resulted in a RMSE of 0.14 mm. The results of this study demonstrate
   that SOFA is a feasible option to be used in surgical simulations for pre-operative
   planning and training.'
+links:
+- name: URL
+  url: https://www.ccsenet.org/journal/index.php/mer/article/view/28791
 ---

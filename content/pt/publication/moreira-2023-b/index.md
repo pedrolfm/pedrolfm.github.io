@@ -11,7 +11,7 @@ authors:
 - Junichi Tokuda
 - Jesung Park
 date: '2023-05-01'
-publishDate: '2025-04-07T19:09:00.596347Z'
+publishDate: '2026-01-07T19:29:40.370599Z'
 publication_types:
 - article-journal
 publication: '*IEEE Transactions on Medical Robotics and Bionics*'
@@ -35,4 +35,7 @@ tags:
 - MR-conditional robots
 - MR-guided procedures
 - prostate cancer
+links:
+- name: URL
+  url: https://ieeexplore.ieee.org/document/10115308
 ---

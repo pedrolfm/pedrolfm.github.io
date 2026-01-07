@@ -9,7 +9,7 @@ authors:
 - Ron Alterovitz
 - Sarthak Misra
 date: '2015-01-01'
-publishDate: '2025-04-07T19:09:00.713804Z'
+publishDate: '2026-01-07T19:29:40.460115Z'
 publication_types:
 - article-journal
 publication: '*Medical Engineering and Physics*'
@@ -37,4 +37,7 @@ tags:
 - Minimally invasive procedures
 - Needle steering
 - Ultrasound
+links:
+- name: URL
+  url: https://www.sciencedirect.com/science/article/abs/pii/S1350453314002562
 ---

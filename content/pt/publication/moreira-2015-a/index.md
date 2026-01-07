@@ -4,8 +4,8 @@ title: Biomechanics-Based Curvature Estimation for Ultrasound-guided Flexible Ne
 authors:
 - Pedro Moreira
 - Sarthak Misra
-date: '2015-01-01'
-publishDate: '2025-04-07T19:09:00.706809Z'
+date: '2015-08-01'
+publishDate: '2026-01-07T19:29:40.454284Z'
 publication_types:
 - article-journal
 publication: '*Annals of Biomedical Engineering*'
@@ -32,4 +32,7 @@ tags:
 - Needle curvature estimation
 - Needle steering
 - Needle-tissue interaction model
+links:
+- name: URL
+  url: https://link.springer.com/article/10.1007/s10439-014-1203-5
 ---

@@ -4,8 +4,8 @@ authors:
 - Pedro Moreira
 - Momen Abayazid
 - Sarthak Misra
-date: '2015-01-01'
-publishDate: '2025-04-07T19:09:00.696774Z'
+date: '2015-12-01'
+publishDate: '2026-01-07T19:29:40.448813Z'
 publication_types:
 - article-journal
 publication: '*IEEE International Conference on Intelligent Robots and Systems*'
@@ -24,4 +24,7 @@ abstract: Flexible bevel-tipped needle steering has been an active research topi
   error of all 15 experimental trials is 1:05±0:41mm. Our results demonstrate the
   ability of the proposed system to compensate for motion disturbances applied to
   the soft-tissue phantom.
+links:
+- name: URL
+  url: https://ieeexplore.ieee.org/document/7353468
 ---

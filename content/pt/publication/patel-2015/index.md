@@ -9,13 +9,13 @@ authors:
 - Weijian Shang
 - Sarthak Misra
 - Gregory S Fischer
-date: '2015-01-01'
-publishDate: '2025-04-07T19:09:00.720288Z'
+date: '2015-08-01'
+publishDate: '2026-01-07T19:29:40.466082Z'
 publication_types:
 - paper-conference
 publication: '*37th Annual International Conference of the IEEE Engineering in Medicine
   and Biology Society (EMBC)*'
-doi: 10.0/Linux-x86_64
+doi: 10.1109/EMBC.2015.7319484
 abstract: Magnetic resonance imaging (MRI) provides excellent image contrast for various
   types of tissues, making it a suitable choice over other imaging modalities for
   various image-guided needle interventions. Furthermore, robot-assistance is maturing
@@ -36,4 +36,7 @@ tags:
 - Computer-assisted surgery
 - Image guided surgery
 - Surgical robotics
+links:
+- name: URL
+  url: https://ieeexplore.ieee.org/document/7319484
 ---

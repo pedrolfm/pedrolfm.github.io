@@ -9,7 +9,7 @@ authors:
 - Nobuhiko Hata
 - Junichi Tokuda
 date: '2023-05-01'
-publishDate: '2025-04-07T19:09:00.602346Z'
+publishDate: '2026-01-07T19:29:40.376432Z'
 publication_types:
 - article-journal
 publication: '*Physics in Medicine and Biology*'
@@ -40,4 +40,7 @@ tags:
 - medical robotics
 - needle insertion assist
 - transperineal prostate intervention
+links:
+- name: URL
+  url: https://iopscience.iop.org/article/10.1088/1361-6560/accefa
 ---

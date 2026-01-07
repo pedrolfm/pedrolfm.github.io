@@ -7,7 +7,7 @@ authors:
 - Ronald Borra
 - Sarthak Misra
 date: '2019-01-01'
-publishDate: '2025-04-07T19:09:00.652756Z'
+publishDate: '2026-01-07T19:29:40.413058Z'
 publication_types:
 - article-journal
 publication: '*Journal of Medical Robotics Research*'
@@ -34,19 +34,12 @@ abstract: 'Prostate cancer is one of the leading causes of death in men. Prostat
   perform the experiment achieving an average targeting error of 3.4[Formula: see
   text]mm.'
 tags:
-- '2018'
-- accepted 12 february
 - biopsy
-- guest editors
-- issue on
-- mahdi tavakoli
 - minimally invasive surgery
 - mri
 - prostate
-- published 9 april 2018
-- published in jmrr special
-- received 5 june 2017
-- revised 28 january 2018
 - robotics-assisted needle steering
-- sar-
+links:
+- name: URL
+  url: https://www.worldscientific.com/doi/abs/10.1142/S2424905X18420035
 ---

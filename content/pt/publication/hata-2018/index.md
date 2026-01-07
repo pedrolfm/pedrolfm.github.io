@@ -4,8 +4,8 @@ authors:
 - Nobuhiko Hata
 - Pedro Moreira
 - Gregory Fischer
-date: '2018-01-01'
-publishDate: '2025-04-07T19:09:00.677771Z'
+date: '2018-02-01'
+publishDate: '2026-01-07T19:29:40.433559Z'
 publication_types:
 - article-journal
 publication: '*Topics in Magnetic Resonance Imaging*'
@@ -23,4 +23,8 @@ tags:
 - autonomy
 - navigation
 - robotics
+links:
+- name: URL
+  url: 
+    https://journals.lww.com/topicsinmri/fulltext/2018/02000/robotics_in_mri_guided_interventions.6.aspx
 ---

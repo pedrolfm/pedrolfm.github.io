@@ -8,7 +8,7 @@ authors:
 - C Tempany
 - K Tuncali
 date: '2022-01-01'
-publishDate: '2025-04-07T19:09:00.631769Z'
+publishDate: '2026-01-07T19:29:40.397570Z'
 publication_types:
 - paper-conference
 publication: '*International Society for Magnetic Resonance in Medicine Annual Meeting*'
@@ -24,4 +24,7 @@ abstract: Globally, the increased uptake of serum PSA level screening led to an 
   laser ablation, photodynamic therapy, irreversible electroporation, radiofrequency
   ablation and focal brachytherapy. However, as long-term oncological data for focal
   therapies are lacking, formal recommendations for its use cannot be made.
+links:
+- name: URL
+  url: https://archive.ismrm.org/2022/2147.html
 ---

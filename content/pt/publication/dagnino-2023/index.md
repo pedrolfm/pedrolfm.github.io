@@ -7,7 +7,7 @@ authors:
 - Helge Arne Wurdemann
 - Momen Abayazid
 date: '2023-01-01'
-publishDate: '2025-04-07T19:09:00.609355Z'
+publishDate: '2026-01-07T19:29:40.381783Z'
 publication_types:
 - manuscript
 publication: '*Frontiers in Robotics and AI*'
@@ -18,4 +18,8 @@ tags:
 - results reproducibility
 - translational research
 - user studies
+links:
+- name: URL
+  url: 
+    https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2023.1270823/full
 ---

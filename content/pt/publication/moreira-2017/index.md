@@ -11,7 +11,7 @@ authors:
 - Ronald Borra
 - Sarthak Misra
 date: '2017-10-01'
-publishDate: '2025-04-07T19:09:00.683776Z'
+publishDate: '2026-01-07T19:29:40.438589Z'
 publication_types:
 - article-journal
 publication: '*Journal of Medical Robotics Research*'

@@ -14,8 +14,8 @@ authors:
 - Nobuhiko Hata
 - Clare M. Tempany
 - Junichi Tokuda
-date: '2018-01-01'
-publishDate: '2025-04-07T19:09:00.670771Z'
+date: '2018-10-01'
+publishDate: '2026-01-07T19:29:40.428091Z'
 publication_types:
 - article-journal
 publication: '*Physics in Medicine and Biology*'
@@ -48,5 +48,8 @@ tags:
 - needle deflection
 - needle path analysis
 - robot-assisted biopsy
+links:
+- name: URL
+  url: https://iopscience.iop.org/article/10.1088/1361-6560/aae214
 selection_index: 2
 ---

@@ -9,7 +9,7 @@ authors:
 - J. J. van den Dobbelsteen
 - S. Misra
 date: '2023-10-01'
-publishDate: '2025-04-07T19:09:00.614254Z'
+publishDate: '2026-01-07T19:29:40.386386Z'
 publication_types:
 - article-journal
 publication: '*Journal of Robotic Surgery*'
@@ -35,4 +35,7 @@ tags:
 - Steerable needle
 - Teleoperation
 - daVinci Surgical System
+links:
+- name: URL
+  url: https://link.springer.com/article/10.1007/s11701-023-01676-x
 ---

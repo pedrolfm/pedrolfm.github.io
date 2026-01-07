@@ -7,7 +7,7 @@ authors:
 - Clare Tempany
 - Junichi Tokuda
 date: '2019-01-01'
-publishDate: '2025-04-07T19:09:00.659753Z'
+publishDate: '2026-01-07T19:29:40.418250Z'
 publication_types:
 - paper-conference
 publication: '*CARS 2019 Computer Assisted Radiology and Surgery*'
