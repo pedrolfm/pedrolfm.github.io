@@ -17,7 +17,7 @@ sections:
       background:
         image:
           # Name of image in `assets/media/`.
-          filename: maracana_3.jpg
+          filename: maracana_mobile.jpg
           # Apply image filters?
           filters:
             # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
@@ -32,7 +32,7 @@ sections:
           text_color_light: true
       spacing:
         # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ['0px', '0', '325px', '0']
+        padding: ['0px', '0', '150px', '0']
   - block: markdown-wide
     content:
       title: About Me
