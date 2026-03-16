@@ -242,18 +242,22 @@
     {{ $bg_img_mobile := resources.Get (printf "media/%s" .Params.design.background.image.filename_mobile) }}
     {{ if $bg_img }}
       {{/* Exception for SVG as Hugo doesn't yet support image processing on SVG. */}}
-      {{ if ne $bg_img.MediaType.SubType "svg" }}
-        {{ $bg_img = $bg_img.Fit "1920x1920 webp" }}
-      {{ end }}
+      {{/* {{ if ne $bg_img.MediaType.SubType "svg" }} */}}
+      {{/*   {{ $bg_img = $bg_img.Fit "1920x1920 webp" }} */}}
+      {{/* {{ end }} */}}
       <style>
         #page-bg {
          background-image: url('{{$bg_img.Permalink}}');
          background-position: center;
          background-size: cover;
+        }
 
-          /* Mobile Background */
-          @media (max-width: 767px) {
+        /* Mobile Image (screens 768px or less) */
+        @media only screen and (max-width: 768px) {
+          #page-bg {
             background-image: url('{{$bg_img_mobile.Permalink}}');
+            background-position: center;
+            background-size: cover;
           }
         }
       </style>
