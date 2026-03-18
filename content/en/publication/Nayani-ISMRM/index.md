@@ -12,6 +12,6 @@ publication_types:
 - abstract-conference
 publication: '*Proceedings of the International Society for Magnetic Resonance in Medicine (ISMRM)*'
 links:
-- name: URL
-  url: https://ieeexplore.ieee.org/document/11253107
+- name: PDF
+  url: https://pedrolfm.github.io/publications/Nayani-ISMRM/ISMRM_Nayani.pdf
 ---
