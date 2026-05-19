@@ -1,5 +1,5 @@
 ---
-title: 'Clinical Validation of a Novel Robotic Device for MR-guided Prostate Biopsy: Initial Patient Experience'
+title: 'AI-assisted cryo-dose estimation and tissue injury modeling for assessing side effects in MRI-guided prostate cryoablation: a retrospective study'
 authors:
 - Pedro Moreira
 - Mijia Ma
