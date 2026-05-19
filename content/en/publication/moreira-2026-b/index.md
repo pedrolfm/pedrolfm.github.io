@@ -17,4 +17,5 @@ abstract: 'Objective. Focal therapy offers a middle ground between active survei
 links:
 - name: URL
   url: https://iopscience.iop.org/article/10.1088/1361-6560/ae4847
+selection_index: 2
 ---
